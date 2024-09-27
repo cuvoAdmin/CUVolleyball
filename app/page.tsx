@@ -106,7 +106,7 @@ export default function Home() {
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-sm opacity-50">
-            Find out the next drop-in volleyball or open gym times!!!
+            Find out the next drop-in volleyball or open gym times at UofC!!!
           </p>
         </a>
 
