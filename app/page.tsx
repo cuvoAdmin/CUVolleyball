@@ -76,11 +76,11 @@ export default function Home() {
           </p>
         </a>
 
-        <a
+        <Link
           href="/execs"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
-          target="_blank"
-          rel="noopener noreferrer"
+          // target="_blank"
+          // rel="noopener noreferrer"
         >
           <h2 className="mb-3 text-2xl font-semibold">
             Meet the Execs{" "}
@@ -91,7 +91,7 @@ export default function Home() {
           <p className="m-0 max-w-[30ch] text-sm opacity-50">
             Wanna know who runs our organization????
           </p>
-        </a>
+        </Link>
 
         <a
           href="https://schedules.oval.ucalgary.ca/MobileOpenGymTimes.aspx"
